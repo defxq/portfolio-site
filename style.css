@@ -24,6 +24,9 @@ header {
   text-align: center;
   margin-bottom: 3rem;
 }
+h1 {
+    white-space: nowrap;
+}
 
 .neon-title {
   font-size: 2.5rem;
