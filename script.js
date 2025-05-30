@@ -24,3 +24,5 @@ style.textContent = `
   }
 }`;
 document.head.appendChild(style);
+// Optional for future interactivity
+console.log("Cyberpunk vibes loaded.");
